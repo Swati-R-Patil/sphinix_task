@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83935909104",
+    "project_id": "sphinixtest",
+    "storage_bucket": "sphinixtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83935909104:android:c9278fc767632b5dfcde35",
+        "android_client_info": {
+          "package_name": "com.task.sphinix_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83935909104-0ci8dfp81sfeo8eh5av0c166vvh1m40q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hvf3-nQSMXMN5yGmMLtBXbKIoml7ocU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83935909104-0ci8dfp81sfeo8eh5av0c166vvh1m40q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
